@@ -1,12 +1,15 @@
-# React + Vite
+**Key Features:**
+- Order Pizza: Users can select pizzas, add them to the cart, and place their order.
+- User Input: Enter your name and order the pizza directly.
+- Cart Management: Easily adjust the quantity of pizzas in your cart before finalizing the order.
+- Location-Based Ordering: Use your current location to streamline the delivery process.
+- Prioritize Orders: Option to prioritize your order for quicker delivery.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+**Technologies Used:**
+- React: For building interactive user interfaces.
+- JavaScript: To handle the functionality behind ordering and cart management.
+- CSS: For a clean and responsive design.
+- Vercel: For hosting and deployment.
 
 
 ![Screenshot 2024-09-18 164032](https://github.com/user-attachments/assets/622d935e-ae08-4ba2-96cc-af8d466ec644)
